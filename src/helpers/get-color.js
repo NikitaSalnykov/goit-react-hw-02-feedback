@@ -1,12 +1,12 @@
 export const getColor = name => {
      switch (name) {
-        case "Good":
+        case "good":
              return "#00c83c";
          
-        case "Neutral":
+        case "neutral":
              return "#83a7ef"
          
-        case "Bad":
+        case "bad":
              return "#fb6868"
          
          default: 

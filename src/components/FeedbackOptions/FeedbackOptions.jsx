@@ -1,4 +1,4 @@
-import { getColor } from "get-color"
+import { getColor } from "helpers/get-color"
 import { Button, List } from "./FeedbackOptions.styled"
 import PropTypes from "prop-types";
 
